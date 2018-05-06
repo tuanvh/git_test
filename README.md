@@ -1,2 +1,3 @@
 # git_test
-tuanvh2 add
+tuanvh2 add 
+fixed conflict
